@@ -1,0 +1,14 @@
+C:\Users\dyego.lima\source\repos\DesafioApiMusicaAlura\DesafioApiMusicaAlura\bin\Debug\net8.0\DesafioApiMusicaAlura.exe
+C:\Users\dyego.lima\source\repos\DesafioApiMusicaAlura\DesafioApiMusicaAlura\bin\Debug\net8.0\DesafioApiMusicaAlura.deps.json
+C:\Users\dyego.lima\source\repos\DesafioApiMusicaAlura\DesafioApiMusicaAlura\bin\Debug\net8.0\DesafioApiMusicaAlura.runtimeconfig.json
+C:\Users\dyego.lima\source\repos\DesafioApiMusicaAlura\DesafioApiMusicaAlura\bin\Debug\net8.0\DesafioApiMusicaAlura.dll
+C:\Users\dyego.lima\source\repos\DesafioApiMusicaAlura\DesafioApiMusicaAlura\bin\Debug\net8.0\DesafioApiMusicaAlura.pdb
+C:\Users\dyego.lima\source\repos\DesafioApiMusicaAlura\DesafioApiMusicaAlura\obj\Debug\net8.0\DesafioApiMusicaAlura.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dyego.lima\source\repos\DesafioApiMusicaAlura\DesafioApiMusicaAlura\obj\Debug\net8.0\DesafioApiMusicaAlura.AssemblyInfoInputs.cache
+C:\Users\dyego.lima\source\repos\DesafioApiMusicaAlura\DesafioApiMusicaAlura\obj\Debug\net8.0\DesafioApiMusicaAlura.AssemblyInfo.cs
+C:\Users\dyego.lima\source\repos\DesafioApiMusicaAlura\DesafioApiMusicaAlura\obj\Debug\net8.0\DesafioApiMusicaAlura.csproj.CoreCompileInputs.cache
+C:\Users\dyego.lima\source\repos\DesafioApiMusicaAlura\DesafioApiMusicaAlura\obj\Debug\net8.0\DesafioApiMusicaAlura.dll
+C:\Users\dyego.lima\source\repos\DesafioApiMusicaAlura\DesafioApiMusicaAlura\obj\Debug\net8.0\refint\DesafioApiMusicaAlura.dll
+C:\Users\dyego.lima\source\repos\DesafioApiMusicaAlura\DesafioApiMusicaAlura\obj\Debug\net8.0\DesafioApiMusicaAlura.pdb
+C:\Users\dyego.lima\source\repos\DesafioApiMusicaAlura\DesafioApiMusicaAlura\obj\Debug\net8.0\DesafioApiMusicaAlura.genruntimeconfig.cache
+C:\Users\dyego.lima\source\repos\DesafioApiMusicaAlura\DesafioApiMusicaAlura\obj\Debug\net8.0\ref\DesafioApiMusicaAlura.dll
